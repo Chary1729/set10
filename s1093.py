@@ -1,2 +1,2 @@
-cel=int(input())
-print(cel+273)
+celicius=int(input())
+print(celicius+273)
